@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Book icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,30 L34,78 C34,78 44,74 54,74 C64,74 74,78 74,78 L74,30 C74,30 64,26 54,26 C44,26 34,30 34,30 Z" />
+    <path
+        android:fillColor="#E8DEF8"
+        android:pathData="M54,26 L54,74 M34,30 C34,30 44,26 54,26 M54,26 C64,26 74,30 74,30" />
+</vector>
