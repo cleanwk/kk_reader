@@ -116,8 +116,8 @@ dependencies {
     implementation("com.tom-roush:pdfbox-android:2.0.27.0")
 
     // TTS - Sherpa-ONNX
-    // 1.10.30 is not published in Sherpa's Maven repo; use the latest 1.10.x patch instead.
-    implementation("com.k2fsa.sherpa:onnx:1.10.+")
+    // Android artifacts are published as `com.k2fsa.sherpa-onnx:sherpa-onnx`.
+    implementation("com.k2fsa.sherpa-onnx:sherpa-onnx:+")
 
     // Networking & compression
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
